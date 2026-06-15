@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi，我是 lqj-cmd
+### 一名正在学习 Python / 深度学习的开发者
 
-<!--
-**lqj-cmd/lqj-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 目前正在学习：PyTorch、全连接神经网络、线性回归项目
+- 💻 技术栈：Python / PyTorch / Git
+- 📫 联系方式：xxx@example.com
 
-Here are some ideas to get you started:
+### 我的项目
+- [线性回归实战](https://github.com/lqj-cmd/你的项目仓库名)：用 PyTorch 实现一元线性回归
+- [神经网络练习](https://github.com/lqj-cmd/你的项目仓库名)：全连接网络的激活函数与损失函数实验
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub 统计
+
+
+### 技术栈
+
+
