@@ -6,9 +6,7 @@
 - 📫 联系方式：1391632144@qq.com
 
 ### 我的项目
-- [线性回归实战](https://github.com/lqj-cmd/你的项目仓库名)：用 PyTorch 实现一元线性回归
-- [神经网络练习](https://github.com/lqj-cmd/你的项目仓库名)：全连接网络的激活函数与损失函数实验
-
+- [电力负荷预测项目](https://github.com/lqj-cmd/load_predict_project)：基于XGBoost的多变量电力负荷预测模型
 ### GitHub 统计
 
 
